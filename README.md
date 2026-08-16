@@ -48,7 +48,7 @@ The second implementation redesigns the irrigation algorithm as a **modular RTL 
 
 ### Hardware Setup
 
-![Setup](images/Water_Tank.jpg)
+![Hardware Setup](images/Water_Tank.jpeg)
 
 
 ### Blynk Dashboard
