@@ -1,5 +1,16 @@
 # 🌱 Smart Irrigation System
 
+![ESP32](https://img.shields.io/badge/ESP32-IoT-blue)
+
+![Verilog](https://img.shields.io/badge/Verilog-RTL-red)
+
+![Vivado](https://img.shields.io/badge/Vivado-2025.2-orange)
+
+![Blynk](https://img.shields.io/badge/Blynk-IoT-green)
+
+![FPGA](https://img.shields.io/badge/FPGA-Design-yellow)
+
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 > Hardware–Software Co-Design of a Smart Irrigation Controller using **ESP32**, **Blynk IoT**, and **Synthesizable Verilog RTL**
 
 ---
