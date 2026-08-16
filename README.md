@@ -39,7 +39,7 @@ The second implementation redesigns the irrigation algorithm as a **modular RTL 
 ### Hardware Setup
 
 ![Hardware](images/System.jpg)
-<img width="720" height="1280" alt="WhatsApp Image 2026-07-25 at 2 51 12 PM" src="https://github.com/user-attachments/assets/e6db6d56-2835-486a-a33f-4341e87f5dce" />
+<img width="360" height="640" alt="WhatsApp Image 2026-07-25 at 2 51 12 PM" src="https://github.com/user-attachments/assets/e6db6d56-2835-486a-a33f-4341e87f5dce" />
 
 
 ### Blynk Dashboard
