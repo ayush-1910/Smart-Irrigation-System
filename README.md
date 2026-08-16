@@ -10,7 +10,6 @@
 
 ![FPGA](https://img.shields.io/badge/FPGA-Design-yellow)
 
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
 > Hardware–Software Co-Design of a Smart Irrigation Controller using **ESP32**, **Blynk IoT**, and **Synthesizable Verilog RTL**
 
 ---
